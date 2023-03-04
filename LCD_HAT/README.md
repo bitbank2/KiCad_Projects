@@ -1,8 +1,7 @@
 LCD_HAT<br>
 -----------------------------------
 Copyright (c) 2023 BitBank Software, Inc.<br>
-Written by Larry Bank<br>
-larry@bitbanksoftware.com<br>
+bitbank@pobox.com<br>
 <br>
 A simple PCB to easily connect LCD breakout boards to Arduino Nano or Feather MCU boards. Includes 2 momentary push buttons and Qwiic I2C connector. The GPIOs used for the LCD connection are marked next to the female header. Likewise the buttons.
 <br>
