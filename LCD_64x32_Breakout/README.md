@@ -10,3 +10,8 @@ The image shows the 3D render from KiCad of the front ant back.
 <br>
 ![LCD_64x32_Breakout](/LCD_64x32_Breakout/demo.jpg?raw=true "LCD_64x32_Breakout")
 <br>
+Here's an earlier version of the board connected to the LCD<br>
+<br>
+![Photo](/LCD_64x32_Breakout/st7567_breakout.jpg?raw=true "LCD Photo")
+<br>
+
