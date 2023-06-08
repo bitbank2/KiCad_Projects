@@ -36,5 +36,5 @@ A breakout board to make it easier to connect either a Feather or Nano to the po
 
 # RV-3032-C7 RTC Breakout
 
-A RV-3032-C7 realtime clock breakout board modelled after the RPI RTC boards. The 5 pin header matches the pinout of the Raspberry Pi and adds the interrupt pin (pulled up to 3.3v). It includes a QWIIC connector (JST 4-pin 1mm), and a pad for the CLKOUT signal. There's a small CR44 backup battery soldered to the back side. The RV3032 is similar to the DS3231 in that it's a temperature adjusted (very accurate) clock, but it's much smaller, much lower power and about the same price.<br>
+A breakout board modelled after the RPI RTC boards. The 5 pin header matches the pinout of the RPI and adds the interrupt pin (pulled up to 3.3v). It includes a QWIIC connector (JST 4-pin 1mm), and a pad for the CLKOUT signal. There's a small CR44 backup battery on the back. The RV3032 is similar to the DS3231 in that it's a temperature adjusted (very accurate) clock, but it's much smaller, much lower power and about the same price.<br>
 
