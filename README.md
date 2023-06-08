@@ -21,7 +21,8 @@ A tiny breakout board to make it easier to work with the tiny ST7567 32x64 monoc
 <br>
 <br>
 <br>
-
+<br>
+<br>
 
 <img align="left" width="240" src="/images/lcd_hat.png" />
 
