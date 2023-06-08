@@ -9,8 +9,6 @@ A DS3231 realtime clock breakout board modelled after the RPI RTC boards. The 5 
 <br>
 <br>
 <br>
-<br>
-
 
 <img align="left" width="240" src="/images/lcd_64x32.png" />
 
@@ -28,5 +26,5 @@ A tiny breakout board to make it easier to work with the tiny ST7567 32x64 monoc
 
 # LCD_HAT
 
-A breakout board to make it easier to work with the popular 'blue' LCDs available from several vendors in China. The board also offers a QWIIC I2C connector, 2 momentary push buttons and male 2-pin headers for measuring the power consumption of the QWIIC device or the LCD.<br>
+A breakout board to make it easier to connect either a Feather or Nano to the popular 'blue' LCDs available from several vendors in China. These LCDs range from a tiny 0.85" 128x128 ST7735 to a 3.5" 320x480 ILI9488. The PCB also offers a QWIIC I2C connector, 2 momentary push buttons and male 2-pin headers for measuring the power consumption of the QWIIC device or the LCD.<br>
 
