@@ -18,4 +18,14 @@ A DS3231 realtime clock breakout board modelled after the RPI RTC boards. The 5 
 
 A tiny breakout board to make it easier to work with the tiny ST7567 32x64 monochrome LCD display. There's nothing really unique about this board, but it certainly makes it easier to work with LCD panels that use flex cables with odd pin spacing (0.6mm in this case). The 8-pin header order was chosen to match the very popular 'blue' LCDs sold by several vendors in China.<br>
 
+<br>
+<br>
+<br>
+
+
+<img align="left" width="240" src="/images/lcd_hat.png" />
+
+# LCD_HAT
+
+A breakout board to make it easier to work with the popular 'blue' LCDs available from several vendors in China. The board also offers a QWIIC I2C connector, 2 momentary push buttons and male 2-pin headers for measuring the power consumption of the QWIIC device or the LCD.<br>
 
