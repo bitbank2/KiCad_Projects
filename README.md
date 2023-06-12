@@ -38,3 +38,14 @@ A breakout board to make it easier to connect either a Feather or Nano to the po
 
 A breakout board modelled after the RPI RTC boards. The 5 pin header matches the pinout of the RPI and adds the interrupt pin (pulled up to 3.3v). It includes a QWIIC connector (JST 4-pin 1mm), and a pad for the CLKOUT signal. There's a small CR44 backup battery on the back. The RV3032 is similar to the DS3231 in that it's a temperature adjusted (very accurate) clock, but it's much smaller, much lower power and about the same price.<br>
 
+<br>
+<br>
+<br>
+
+<img align="left" width="240" src="/images/Xiao_Sharp_LCD.png" />
+
+# Xiao Sharp Memory LCD Breakout
+
+A breakout board for QT Py / Xiao MCU boards to easily control Sharp Memory LCDs. These LCDs require a square wave input to balance the charge; this is provided by the onboard RV3032 RTC. It also includes 2 pushbuttons and a QWIIC I2C connector.<br>
+
+
