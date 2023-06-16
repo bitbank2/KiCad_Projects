@@ -43,5 +43,10 @@ A breakout board modelled after the RPI RTC boards. The 5 pin header matches the
 # Xiao Sharp Memory LCD Breakout
 
 A breakout board for QT Py / Xiao MCU boards to easily control Sharp Memory LCDs. These LCDs require a square wave input to balance the charge; this is provided by the onboard RV3032 RTC. It also includes 2 pushbuttons and a QWIIC I2C connector.<br>
+<br>
+<br>
+<img align="left" width="240" src="/images/xiao_lcd_hat.png" />
 
+# Xiao LCD HAT
 
+A breakout board for QT Py / Xiao MCU boards to easily connect SSD1306 OLEDs and 'blue' 7/8-pin LCD breakout boards. It also includes 2 pushbuttons and a QWIIC I2C connector.<br>
