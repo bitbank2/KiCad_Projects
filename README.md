@@ -50,3 +50,11 @@ A breakout board for QT Py / Xiao MCU boards to easily control Sharp Memory LCDs
 # Xiao LCD HAT
 
 A breakout board for QT Py / Xiao MCU boards to easily connect SSD1306 OLEDs and 'blue' 7/8-pin LCD breakout boards. It also includes 2 pushbuttons and a QWIIC I2C connector.<br>
+<br>
+<br>
+<img align="left" width="240" src="/images/sharp_feather_nano.png" />
+
+# Sharp Feather/Nano breakout
+
+A breakout board for Feather and Nano MCU boards to easily connect Sharp Memory LCDs. It also includes a RV3032 RTC to drive the VCOM signal of the LCD and act as a low power+reliable realtime clock, 2 pushbuttons and a QWIIC I2C connector.<br>
+
