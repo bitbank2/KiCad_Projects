@@ -57,4 +57,11 @@ A breakout board for QT Py / Xiao MCU boards to easily connect SSD1306 OLEDs and
 # Sharp Feather/Nano breakout
 
 A breakout board for Feather and Nano MCU boards to easily connect Sharp Memory LCDs. It also includes a RV3032 RTC to drive the VCOM signal of the LCD and act as a low power+reliable realtime clock, 2 pushbuttons and a QWIIC I2C connector.<br>
+<br>
+<br>
+<img align="left" width="240" src="/images/ch32v003_breakout.png" />
+
+# CH32V003 (QFN20) breakout
+
+A breakout board for the WCH CH32V003 RISC-V MCU. This breakout is for the QFN20 version of the chip. I've made the QFN20 footprint easier to hand solder by reducing the size of the center ground pad. This leaves a bit more gap to the pins. I solder them without a stencil by mixing the solder paste with a little extra flux to avoid shorts under the chip body.<br>
 
